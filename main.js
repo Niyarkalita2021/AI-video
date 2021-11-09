@@ -3,7 +3,7 @@ status = "";
 video = "";
 
 function preload(){
-    video = createVideo('vdeo.mp4');
+    video = createVideo('video.mp4');
 }
 
 function setup(){
